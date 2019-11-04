@@ -11,13 +11,13 @@ td, th {
 	font-size: 2em;
 	width: 25%;
 }
-.charactertable .yes {
+.character-traits .yes {
 	background-color: lime;
 }
-.charactertable .no {
+.character-traits .no {
 	background-color: red;
 }
-.charactertable .maybe {
+.character-traits .maybe {
 	background-color: yellow;
 }
 .avatar {
