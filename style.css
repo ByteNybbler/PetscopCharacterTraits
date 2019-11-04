@@ -1,0 +1,26 @@
+body {
+	font: PetscopWide;
+}
+table {
+	border: 1px solid black;
+}
+td, th {
+	border: 1px solid black;
+	padding: 20px;
+	text-align: center;
+	width: 25%;
+}
+.charactertable .yes {
+	background-color: lime;
+}
+.charactertable .no {
+	background-color: red;
+}
+.charactertable .maybe {
+	background-color: yellow;
+}
+img {
+	width: 60px;
+	height: 60px;
+	margin: 0 0 20px;
+}
