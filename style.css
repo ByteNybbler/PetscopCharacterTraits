@@ -20,11 +20,11 @@ td, th {
 .character-traits .maybe {
 	background-color: yellow;
 }
-.avatar {
+.character .avatar {
 	width: 100px;
 	height: 100px;
 	margin: 0 0 20px;
 }
-figcaption {
+.character .name {
 	font-size: 1.5em;
 }
