@@ -1,3 +1,7 @@
+@font-face {
+	font-family: PetscopWide;
+	src: url(PetscopWide.ttf);
+}
 body {
 	font-family: PetscopWide;
 }
